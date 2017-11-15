@@ -1,2 +1,2 @@
-# homework-skillup
-very easy template
+# skillup-homework
+homework 
