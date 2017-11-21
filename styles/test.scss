@@ -1,0 +1,52 @@
+.test{
+  background-color: #03b6e7;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.rozdil-test{
+  height:20px;
+  width: 100%;
+}
+.test h1{
+  margin-top: -5px;
+  color: #e7eff1;
+  font-family: Montserrat;
+}
+.test h4{
+  margin-bottom:4px;
+  margin-top: 2px;
+  font-family: Montserrat;
+  color: #e7eff1;
+
+}
+.test p{
+  color: #e7eff1;
+  font-family: roboto;
+}
+.foto-3{
+  float: left;
+  width: 71px;
+  height: 71px;
+  border-radius: 50px;
+  margin-right: 20px;
+  background-image: url("../pictures/testim/foto-Anna.jpg");
+}
+.foto-2{
+  float: left;
+  width: 71px;
+  height: 71px;
+  border-radius: 50px;
+  margin-right: 20px;
+  background-image: url("../pictures/testim/foto-mary.jpg");
+}
+.foto-1{
+  float: left;
+  width: 71px;
+  height: 71px;
+  border-radius: 50px;
+  margin-right: 20px;
+  background-image: url("../pictures/testim/foto-Lorenzo.jpg");
+}
+.test-button{
+  margin: 20px auto;
+}

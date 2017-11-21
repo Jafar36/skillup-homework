@@ -1,0 +1,24 @@
+.logo-holder{
+  float: left;
+  width: 358px;
+  height: 71px;
+  margin-right: 40px;
+}
+nav a {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 75px;
+  margin-right: 32px;
+  color: inherit;
+  text-decoration: none;
+  &:hover {
+    color: #ffac55;
+    text-decoration: none;
+  }
+  &:active {
+    color: #ffac55;
+    text-decoration: none;
+  }
+}
