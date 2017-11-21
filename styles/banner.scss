@@ -1,0 +1,71 @@
+.banner {
+  background: url("../pictures/banner/banner.jpg") no-repeat;
+  background-size: contain;
+  /*height:550px;*/
+  display: flex;
+}
+.banner-menu{
+  position:relative ;
+   height: 75%;
+  background-color: #03b6e7;
+}
+
+.orange{
+  background-color: #ffac56;
+  height:85px;
+  padding: 20px 10px;
+
+}
+.orange h1{
+  margin: 0px 20px;
+  font-family: Montserrat;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: bold;
+
+
+  }
+.q{
+  border-right:1px solid #00a6d3 ;
+}
+.section{
+  width: 50%;
+  height: 100px;
+  float: left;
+  padding: 20px 0px 0px 40px;
+  border-bottom: 1px solid #00a6d3;
+  background-color: #03b6e7;
+  &:hover{
+    background-color: #00a6d3;
+
+  }
+  &:active{
+    background-color: #00a6d3;
+  }
+}
+.phone{
+  background-color: #03b6e7;
+  height:150px;
+}
+.dyadko{
+  float: left;
+  background: url("../pictures/banner/dyadko.png") no-repeat;
+  background-size: contain;
+  margin: 10px 10px 10px 20px;
+  width: 103px;
+  height: 130px;
+}
+.call{
+  padding: 30px 0px 0px 140px;
+}
+.arrow{
+  position: relative;
+  width:29px;
+  top:-49px;
+  left:149px;
+}
+.section h3{
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 10px;
+}

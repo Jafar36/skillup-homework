@@ -1,0 +1,48 @@
+.greytext{
+  text-align:right;
+  color:#8b9394;
+  font-family:'roboto';
+
+}
+.greytext1{
+  text-align:right;
+  color:#8b9394;
+  font-family:'Montserrat';
+  line-height: 15px;
+
+
+}
+.blacktext{
+  font-family:'Montserrat';
+  text-align:right;
+  color:black;
+  font-size: 24px;
+  font-weight: bold;
+}
+p {
+  margin:2px;
+
+}
+.about-image{
+  background: url("../pictures/about-us/kartynka.jpg") no-repeat;
+  background-size: contain;
+  height: 255px;
+  display: flex;
+}
+.about{
+  margin:90px 0px;
+}
+.about-text{
+  position: relative;
+}
+.about-text a{
+
+  display: block;
+  position: absolute;
+  left:485px; /* фігня собача з тою кнопкою під мобілу - переробити */
+}
+.badge{
+  position: relative;
+  top: 120px;
+  left: 90px;
+}
